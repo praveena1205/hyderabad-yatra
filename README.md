@@ -99,14 +99,11 @@ hyderabad-travel-guide/
 ### Steps
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/sreenidhi-06/hyderabad-yatra.git
-cd hyderabad-yatra
 
-# 2. Install dependencies
+# 1. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the app
+# 2. Run the app
 python app.py
 ```
 
