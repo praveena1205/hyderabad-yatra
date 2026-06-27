@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕌 Hyderabad Yatra — Smart Travel & Temple Guide
 
 A full-stack web application that serves as a smart travel guide for Hyderabad, featuring places to visit, food recommendations, hotels, transport, budget planning, and an interactive map — all with user authentication.
@@ -134,3 +135,6 @@ This app is deployed on **Render** (free tier).
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# hyderabad-yatra
+>>>>>>> 13bb6893e9249308d17dddb524701f646b388626
